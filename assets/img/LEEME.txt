@@ -1,0 +1,5 @@
+Capturas del proyecto (PNG):
+
+  casoN_codigo.png     -> imagen COMPLETA del código (ya vienen generadas; puedes reemplazarlas por las tuyas).
+                          En la página se ve dentro de una ventana con barra para subir y bajar.
+  casoN_resultado.png  -> captura de la ejecución en Google Chrome (colócala tú con este nombre).
